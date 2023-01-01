@@ -2,7 +2,8 @@ This page include supplementary tutorial material for the "Conversational Inform
 
 # The CIS Book
 **Title:** Conversational Information Seeking
-Draft 1.1: https://arxiv.org/pdf/2201.08808.pdf
+Draft 1.1 (January 2022): [https://arxiv.org/pdf/2201.08808.pdf](https://arxiv.org/pdf/2201.08808.pdf)
+Draft 1.2 (January 2023): Will be released shortly.
 
 **Authors:**
 + [Hamed Zamani](https://groups.cs.umass.edu/zamani/), University of Massachusetts Amherst, United States
@@ -14,12 +15,12 @@ Draft 1.1: https://arxiv.org/pdf/2201.08808.pdf
 To cite the CIS book, please use the following bibtex:
 ```
 @article{TheCISBook,
-author = {Zamani, Hamed and Trippas, Johanne R. and Dalton, Jeffrey and Radlinski, Filip},
-title = {Conversational Information Seeking},
-year = {2023},
-publisher = {Now Publishers},
-journal = {Foundations and Trends in Information Retrieval},
-note = {(to appear)},
+  author = {Zamani, Hamed and Trippas, Johanne R. and Dalton, Jeffrey and Radlinski, Filip},
+  title = {Conversational Information Seeking},
+  year = {2023},
+  publisher = {Now Publishers},
+  journal = {Foundations and Trends in Information Retrieval},
+  note = {(to appear)},
 }
 ```
 
@@ -57,18 +58,18 @@ Jeffrey Dalton, Sophie Fischer, Paul Owoicho, Filip Radlinski, Federico Rossetto
 ## Citation:
 To cite the CIS tutorial at SIGIR 2022, please use the following bibtex:
 ```
-@inproceedings{TheCISTutorial-SIGIR2023,
-author = {Dalton, Jeffrey and Fischer, Sophie and Owoicho, Paul and Radlinski, Filip and Rossetto, Federico and Trippas, Johanne R. and Zamani, Hamed},
-title = {Conversational Information Seeking: Theory and Application},
-year = {2022},
-isbn = {9781450387323},
-publisher = {Association for Computing Machinery},
-address = {New York, NY, USA},
-url = {https://doi.org/10.1145/3477495.3532678},
-doi = {10.1145/3477495.3532678},
-booktitle = {Proceedings of the 45th International ACM SIGIR Conference on Research and Development in Information Retrieval},
-pages = {3455–3458},
-location = {Madrid, Spain},
-series = {SIGIR '22}
+@inproceedings{TheCISTutorial-SIGIR2022,
+  author = {Dalton, Jeffrey and Fischer, Sophie and Owoicho, Paul and Radlinski, Filip and Rossetto, Federico and Trippas, Johanne R. and Zamani, Hamed},
+  title = {Conversational Information Seeking: Theory and Application},
+  year = {2022},
+  isbn = {9781450387323},
+  publisher = {Association for Computing Machinery},
+  address = {New York, NY, USA},
+  url = {https://doi.org/10.1145/3477495.3532678},
+  doi = {10.1145/3477495.3532678},
+  booktitle = {Proceedings of the 45th International ACM SIGIR Conference on Research and Development in Information Retrieval},
+  pages = {3455–3458},
+  location = {Madrid, Spain},
+  series = {SIGIR '22}
 }
 ```

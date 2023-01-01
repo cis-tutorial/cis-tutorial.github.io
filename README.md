@@ -21,7 +21,7 @@ publisher = {Now Publishers},
 journal = {Foundations and Trends in Information Retrieval},
 note = {(to appear)},
 }
-'''
+```
 
 
 # The CIS Tutorial @ The Web Conf 2023
@@ -71,4 +71,4 @@ pages = {3455–3458},
 location = {Madrid, Spain},
 series = {SIGIR '22}
 }
-'''
+```

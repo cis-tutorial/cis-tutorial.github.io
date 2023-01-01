@@ -2,8 +2,8 @@ This page include supplementary tutorial material for the "Conversational Inform
 
 # The CIS Book
 **Title:** Conversational Information Seeking
-Draft 1.1 (January 2022): [https://arxiv.org/pdf/2201.08808.pdf](https://arxiv.org/pdf/2201.08808.pdf)
-Draft 1.2 (January 2023): Will be released shortly.
++ Draft 1.1 (January 2022): [https://arxiv.org/pdf/2201.08808.pdf](https://arxiv.org/pdf/2201.08808.pdf)
++ Draft 1.2 (January 2023): Will be released shortly.
 
 **Authors:**
 + [Hamed Zamani](https://groups.cs.umass.edu/zamani/), University of Massachusetts Amherst, United States
@@ -26,11 +26,15 @@ To cite the CIS book, please use the following bibtex:
 
 
 # The CIS Tutorial @ The Web Conf 2023
+## Presenters (in alphabetical order):
+Jeffrey Dalton, Filip Radlinski, Federico Rossetto, Johanne R. Trippas, Hamed Zamani
+
+## Presentation Slides:
 We will be presenting the CIS tutorial at the Web Conference 2023 in Austin, TX, USA. The tutorial material will be made available here prior to the conference.
 
 
 # The CIS Tutorial @ SIGIR 2022
-## Presenters:
+## Presenters (in alphabetical order):
 Jeffrey Dalton, Sophie Fischer, Paul Owoicho, Filip Radlinski, Federico Rossetto, Johanne R. Trippas, Hamed Zamani
 
 ## Presentation Slides:

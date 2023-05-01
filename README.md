@@ -2,8 +2,7 @@ This page include supplementary tutorial material for the "Conversational Inform
 
 # The CIS Book
 **Title:** Conversational Information Seeking
-+ Draft 1.1 (January 2022): [https://arxiv.org/pdf/2201.08808.pdf](https://arxiv.org/pdf/2201.08808.pdf)
-+ Draft 1.2 (January 2023): Will be released shortly.
++ Draft 1.2 (January 2023): [https://arxiv.org/pdf/2201.08808.pdf](https://arxiv.org/pdf/2201.08808.pdf)
 
 **Authors:**
 + [Hamed Zamani](https://groups.cs.umass.edu/zamani/), University of Massachusetts Amherst, United States
@@ -29,9 +28,22 @@ To cite the CIS book, please use the following bibtex:
 ## Presenters (in alphabetical order):
 Jeffrey Dalton, Filip Radlinski, Federico Rossetto, Johanne R. Trippas, Hamed Zamani
 
-## Presentation Slides:
-We will be presenting the CIS tutorial at the Web Conference 2023 in Austin, TX, USA. The tutorial material will be made available here prior to the conference.
 
+## Presentation Slides:
++ [Introduction and Applications](https://github.com/cis-tutorial/cis-tutorial.github.io/blob/main/cis-tutorial-www23-slides/cis-tutorial-www23-part-1-introduction.pdf)
++ [Historical Context](https://github.com/cis-tutorial/cis-tutorial.github.io/blob/main/cis-tutorial-www23-slides/cis-tutorial-www23-part-2-historical-context.pdf)
++ [Large Language Models and Retrieval Augmentation](https://github.com/cis-tutorial/cis-tutorial.github.io/blob/main/cis-tutorial-www23-slides/cis-tutorial-www23-part-3-llm.pdf)
++ [Conversational Language Understanding and Response Ranking & Generation](https://github.com/cis-tutorial/cis-tutorial.github.io/blob/main/cis-tutorial-www23-slides/cis-tutorial-www23-part-5%266-conversational-understanding-ranking-generation.pdf)
++ [Mixed-Initiative Interactions](https://github.com/cis-tutorial/cis-tutorial.github.io/blob/main/cis-tutorial-www23-slides/cis-tutorial-www23-part-7-mixed-initiative.pdf)
++ [Conversational Interfaces and Result Presentation](https://github.com/cis-tutorial/cis-tutorial.github.io/blob/main/cis-tutorial-www23-slides/cis-tutorial-www23-part-8-conversational-interfaces.pdf)
++ CIS Evaluation (no public slide)
+
+## Hands-on Practices:
+### Slides:
++ [OAT](https://github.com/cis-tutorial/cis-tutorial.github.io/blob/main/cis-tutorial-www23-slides/cis-tutorial-www23-part-9-hands-on-oat.pdf)
++ [ConvSim](https://github.com/cis-tutorial/cis-tutorial.github.io/blob/main/cis-tutorial-www23-slides/cis-tutorial-www23-part-9-hands-on-convsim.pdf)
+
+---
 
 # The CIS Tutorial @ SIGIR 2022
 ## Presenters (in alphabetical order):
